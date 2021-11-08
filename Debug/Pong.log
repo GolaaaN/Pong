@@ -1,0 +1,7 @@
+﻿  ball.cpp
+G:\האחסון שלי\c++ mini projects\Pong Game\Pong\Pong\ball.cpp : fatal error C1033: cannot open program database 'G:\האחסון שלי\c++ mini projects\Pong Game\Pong\Pong\Debug\vc142.idb'
+  Main.cpp
+G:\האחסון שלי\c++ mini projects\Pong Game\Pong\Pong\Main.cpp : fatal error C1033: cannot open program database 'G:\האחסון שלי\c++ mini projects\Pong Game\Pong\Pong\Debug\vc142.idb'
+  pad.cpp
+G:\האחסון שלי\c++ mini projects\Pong Game\Pong\Pong\pad.cpp : fatal error C1033: cannot open program database 'G:\האחסון שלי\c++ mini projects\Pong Game\Pong\Pong\Debug\vc142.idb'
+  Generating Code...
