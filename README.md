@@ -5,6 +5,7 @@ A pong game created with C++ and SFML.
 
 
 ## Demo
+![image](https://user-images.githubusercontent.com/55715158/187162916-cb22a033-c518-401a-b958-784cb0a9c151.png)
 
 
 
