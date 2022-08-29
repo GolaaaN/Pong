@@ -1,8 +1,33 @@
+
 # Pong
-A pong game made by c++ with sfml
-![image](https://user-images.githubusercontent.com/55715158/140725068-00504fcb-a2b5-4c2e-bc3f-df95840560f2.png)
 
-How to use it?
-1.	Add the sfml library to your project in visual studio
-2.	Playyyyyyyyyyyyy!
+A pong game created with C++ and SFML.
 
+
+## Demo
+
+
+
+
+## How to play?
+
+Clone the project
+
+```bash
+  git clone https://github.com/GolaaaN/Pong
+```
+
+Go to the project directory
+
+```bash
+  cd Pong
+```
+
+Install dependencies
+
+You have to install the SFML library and connect it to visual studio.
+
+
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
